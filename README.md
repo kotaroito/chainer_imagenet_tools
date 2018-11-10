@@ -2,6 +2,8 @@
 
 Utility scripts for chainer imagenet.
 
+This repository is forked from https://github.com/shi3z/chainer_imagenet_tools and reviesed for Python3.
+
 ## Scripts
 
 - make_train_data.py
